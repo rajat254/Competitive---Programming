@@ -1,3 +1,4 @@
+# your code goes here
 t=int(input())
 for x in range(t):
     n=int(input())
