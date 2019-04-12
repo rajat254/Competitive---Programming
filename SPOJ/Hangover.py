@@ -11,7 +11,7 @@ while(1):
             while(1):
                 g+=1
                 sum1+=1/g
-                if sum1>=n:
+                if sum1>=n:#whenever length passes given length we break the loop
                     break
             print(g-1,'card(s)')
         
