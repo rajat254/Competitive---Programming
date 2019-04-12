@@ -8,7 +8,7 @@ for x in range(t):
         if a[i]>a[i-1]:
             index=i-1
             break
-    if index==-1:#if permutation is maximum
+    if index==-1:#if permutation is maximum i.e no larger permutations can be made
         print(-1)
     else:
         for i in range(n-1,index,-1):
