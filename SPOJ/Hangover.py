@@ -14,4 +14,4 @@ while(1):
                 if sum1>=n:
                     break
             print(g-1,'card(s)')
-        
+            
